@@ -1,0 +1,4 @@
+/home/user/PARALELA/PADRE/build/CMakeFiles/rebuild_cache.dir
+/home/user/PARALELA/PADRE/build/CMakeFiles/edit_cache.dir
+/home/user/PARALELA/PADRE/build/CMakeFiles/classificationMetrics.dir
+/home/user/PARALELA/PADRE/build/CMakeFiles/classification.dir
